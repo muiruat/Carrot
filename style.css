@@ -83,7 +83,8 @@ body {
 }
 
 .pop-up--hide {
-  display: none;
+  /* display: none; */
+  visibility: hidden;
 }
 
 .pop-up__refresh {
